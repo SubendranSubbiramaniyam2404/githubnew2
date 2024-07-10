@@ -1,2 +1,6 @@
 hi iam sybujh
+<<<<<<< HEAD
 using git b
+=======
+using git branch1git
+>>>>>>> git-br
